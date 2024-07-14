@@ -1,0 +1,44 @@
+baseURL = 'https://reoco.de/'
+languageCode = 'en-us'
+title = 'reoco.de'
+theme = 'risotto'
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.about]
+title = "Emre \"reo\" Osmanoglu"
+description = "Code Flipper, Musician, Enthusiast of things."
+
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/reo6"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:emre@reoco.de"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-youtube"
+title = "YouTube"
+url = "https://youtube.com/@reocode"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "https://github.com/reo6/resume/raw/main/resume.pdf"
+    weight = 10
