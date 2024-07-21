@@ -1,7 +1,5 @@
 +++
 title = "Resume"
-date = "2024-07-04"
-author = "Emre \"reo\" Osmanoglu"
 +++
 
 
