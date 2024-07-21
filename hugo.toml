@@ -40,5 +40,5 @@ url = "https://youtube.com/@reocode"
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "https://github.com/reo6/resume/raw/main/resume.pdf"
+    url = "/resume/"
     weight = 10
