@@ -4,4 +4,4 @@ title = "Resume"
 
 
 - [Via FlowCV](https://flowcv.com/resume/hfa4sm0nlq)
-- [Direct PDF](https://github.com/reo6/resume/raw/main/resume.pdf)
+- [Direct PDF](https://static.reoco.de/resume.pdf)
