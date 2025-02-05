@@ -6,6 +6,9 @@ description = ""
 tags = [
     "emoji",
 ]
+
+[build]
+    list = 'never'
 +++
 <!--more-->
 
