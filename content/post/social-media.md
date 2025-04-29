@@ -6,6 +6,7 @@ description = ""
 tags = [
     "emoji",
 ]
+draft = true
 
 [build]
     list = 'never'
